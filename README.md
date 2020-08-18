@@ -308,7 +308,7 @@ extension NSMutableData {
 
 # Node
 
-- if you implement `multer` , it almost automatically handle `file` request.
+- if you implement `multer` , it automatically handles `file` request.
 - further experiments are required for files such as audio & video file type.
 - `req.file`
 
